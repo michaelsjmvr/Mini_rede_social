@@ -1,8 +1,11 @@
-# Mini Rede Social
+### Hi, I'm Michael D.🤙
 
-## Autor: Michael Douglas P Lima
-## Contato: michaelsjmvr@hotmail.com
-## LinkedIn: [michael-douglas-640a11180](https://www.linkedin.com/in/michael-douglas-640a11180/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-douglas-640a11180/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/michael.douglaspdl/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/MikeeD.Cloud9/)
+
+
+# Mini Rede Social
 
 ## Descrição do Projeto
 A Mini Rede Social é um projeto de uma rede social simplificada criada usando Python com a biblioteca PySide6 para a interface gráfica e SQLite3 para armazenamento de dados. O projeto permite que os usuários se registrem, façam login, postem mensagens, desloguem e vejam o feed de postagens.
